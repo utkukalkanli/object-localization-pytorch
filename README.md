@@ -29,10 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/image.jpeg" alt="Logo" width="200" height="200">
-  </a>
-
+    <img src="images/image.jpeg" alt="Logo" width="320" height="320">
   <h3 align="center">Object Localization with PyTorch</h3>
 
 </div>
@@ -55,7 +52,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][images/image3.png]](https://example.com)
+<img src="images/image3.jpeg" alt="Logo" width="320" height="200">
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
